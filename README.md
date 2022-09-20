@@ -1,5 +1,10 @@
 # Lista de códigos
 
-kljwidfvbijb
-ljnvlnwovn
-çlknwodvnown
+   Entrada
+   Processamento
+   Saída
+   Print
+   int
+   Spring
+   Iteger
+   Boolean
